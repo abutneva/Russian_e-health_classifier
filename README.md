@@ -1,5 +1,5 @@
-# Russian_e-health_classifier
-Python-based NLP Classifier of medical services in the field of e-health to optimize the interaction among participants of the e-health model
+
+## Python-based NLP Classifier of medical services in the field of e-health to optimize the interaction among participants of the e-health model
 
 # Certificate of state registration of computer programs (in the Federal Service for Intellectual Property of the Russian Federation) № 2020667510 from 24.12.2020
 
@@ -8,6 +8,7 @@ Python-based NLP Classifier of medical services in the field of e-health to opti
 *Authors: Shaimieva Elmira Shamilevna (RU), Butneva Alexandra Yuryevna (RU), Gumerova Guzel Isaevna( RU), Stefan Martin Jens Tobias Huesig (Ger), Schewe Gerhard Paul Herbert (Ger)*
 
 **Object:** Russian e-health system
+
 **Target groups:** patients (P), doctors (D), health insurance (I)
 	
 **Characteristics:** Windows 10, Python 3.8 (64-bite version), supported by C++ Build Tools in Visual Studio and command prompt 
