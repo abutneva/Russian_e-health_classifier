@@ -3,9 +3,9 @@
 
 # Certificate of state registration of computer programs (in the Federal Service for Intellectual Property of the Russian Federation) № 2020667510 from 24.12.2020
 
-*Copyright holders: Shaimieva Elmira Shamilevna (RU), Butneva Alexandra Yuryevna (RU), Gumerova Guzel Isaevna (RU)*
+**Copyright holders:** Shaimieva Elmira Shamilevna (RU), Butneva Alexandra Yuryevna (RU), Gumerova Guzel Isaevna (RU)*
 
-*Authors: Shaimieva Elmira Shamilevna (RU), Butneva Alexandra Yuryevna (RU), Gumerova Guzel Isaevna( RU), Stefan Martin Jens Tobias Huesig (Ger), Schewe Gerhard Paul Herbert (Ger)*
+**Authors:** Shaimieva Elmira Shamilevna (RU), Butneva Alexandra Yuryevna (RU), Gumerova Guzel Isaevna( RU), Stefan Martin Jens Tobias Huesig (Ger), Schewe Gerhard Paul Herbert (Ger)*
 
 **Object:** Russian e-health system
 
